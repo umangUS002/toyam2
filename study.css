@@ -1,0 +1,13 @@
+.ele{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    display: inline-flex;
+    align-items: center;
+    text-align: center;
+    border: 2px solid black;
+    color: black;
+}
+.videos{
+    display: flex;
+}

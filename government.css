@@ -1,0 +1,23 @@
+.names2{
+    height: 70px;
+    width: 100%;
+    background-color:white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.names2:hover{
+    background-color:#20bf6b;
+
+}
+.names2:active{
+  background-color: #20bf6b;
+
+}
+.gov{
+    background-color: #b8e994;
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
